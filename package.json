@@ -1,7 +1,7 @@
 {
   "name": "JATE",
   "version": "1.0.0",
-  "description": "Text editor also vorkin offline",
+  "description": "Text editor also works offline",
   "main": "server.js",
   "scripts": {
     "start:dev": "webpack-dev-server",
